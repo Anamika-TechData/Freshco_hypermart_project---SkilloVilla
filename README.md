@@ -17,6 +17,5 @@ This project focuses on analyzing Freshco Hypermart’s sales, inventory, and cu
 ## Tools and Techniques Used
 - Microsoft Excel with advanced functionalities.
 - Pivot Tables for quick summarization and analysis of large datasets.
-- Charts to visualize trends and comparisons effectively.
 - Formulas and functions for data cleaning, transformations, and calculations.
 - Data cleaning techniques to handle fragmented or inconsistent data.
