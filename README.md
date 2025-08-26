@@ -1,4 +1,4 @@
-# Freshco_hypermart_project---SkilloVilla
+# Capstone_project_Excel-SkilloVilla
 ## Project Overview
 This project focuses on analyzing Freshco Hypermart’s sales, inventory, and customer data using Microsoft Excel. The primary goal is to deliver actionable insights on sales performance, product trends, and operational efficiency to support data-driven business decisions.
 
